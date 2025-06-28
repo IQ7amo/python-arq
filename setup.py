@@ -7,7 +7,7 @@ with open("README.md", encoding="utf8") as readme, open(
     requires = requirements.read().splitlines(keepends=False)
 
 setuptools.setup(
-    name="python_arq",
+    name="python-arq",
     packages=setuptools.find_packages(),
     version="6.0.7",
     license="MIT",
