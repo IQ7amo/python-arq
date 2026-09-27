@@ -1,4 +1,4 @@
-pyrogram
-dotmap
-aiohttp
 aiofiles
+aiohttp
+dotmap
+kurigram
